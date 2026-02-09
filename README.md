@@ -13,3 +13,5 @@ Open the repo in browser (where you are right now!)
 6. Paste that into QImage1 / QImage2 / QImage3 in Google Sheets.
 
 _TIP: If the link contains github.com/.../blob/... it’s wrong. It must be **raw**.githubusercontent.com/...._
+
+Do **NOT** edit files in /config.
