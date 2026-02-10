@@ -1,1 +1,2 @@
-{ "eventKey": "DEFAULT" }
+  "activeEventKey": "DEFAULT",
+  "eventKeys": ["NUS120", "OpenHouse2026", "FYE"]
