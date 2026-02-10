@@ -1,7 +1,5 @@
 {
   "items": [
-    { "eventKey": "DEFAULT", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/DEFAULT.png" },
-    { "eventKey": "OpenHouse2026", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/OpenHouse2026.png" },
-    { "eventKey": "FYE", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/FYE.png" }
+    { "eventKey": "FYE", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/test.png" }
   ]
 }
