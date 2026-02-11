@@ -2,6 +2,6 @@
   "items": [
     { "eventKey": "FYE", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/fyeqrqsample.png" },
     { "eventKey": "NUS120", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/nus120qrsample.png" },
-    { "eventKey": "OpenHouse2026", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/openhouse2026sample.png" },
+    { "eventKey": "OpenHouse2026", "qrImageUrl": "https://raw.githubusercontent.com/nusteli/libbiequiz/main/qr/openhouse2026sample.png" }
   ]
 }
